@@ -1,0 +1,4 @@
+displayName = Solaris Procellae
+author = Newt & Fur [Furry World]
+version = 0.0.1
+homepage = domain

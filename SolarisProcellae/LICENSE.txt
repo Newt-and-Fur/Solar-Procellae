@@ -1,0 +1,20 @@
+MIT-Lizenz
+
+Copyright (c) 2019 Solaris Procellae
+
+Hiermit wird jeder Person, die eine Kopie erhält, kostenlos die Erlaubnis erteilt
+von dieser Software und den dazugehörigen Dokumentationsdateien (die "Software") zu handeln
+in der Software ohne Einschränkung, einschließlich ohne Einschränkung der Rechte
+zum Verwenden, Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und / oder Verkaufen
+Kopien der Software zu erstellen und Personen zu gestatten, denen die Software gehört
+zu diesem Zweck eingerichtet, unter folgenden Bedingungen:
+
+Der obige Copyright-Hinweis und dieser Erlaubnishinweis sind in allen enthalten
+Kopien oder wesentliche Teile der Software.
+
+DIE SOFTWARE WIRD "WIE BESEHEN" ZUR VERFÜGUNG GESTELLT, OHNE JEGLICHE GEWÄHRLEISTUNG, AUSDRÜCKLICH ODER
+STILLSCHWEIGEND, EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT,
+EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG. NIEMALS WIRD DAS
+AUTOREN ODER COPYRIGHT-INHABER HAFTEN FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE
+HAFTUNG, OB IM RAHMEN EINES VERTRAGS, EINES SCHWERPUNKTS ODER EINES ANDEREN SCHWERPUNKTS,
+AUSSERHALB ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN VERHANDLUNGEN IN DER SOFTWARE.
